@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# my stuff (excalibur1099)
+*.csv
